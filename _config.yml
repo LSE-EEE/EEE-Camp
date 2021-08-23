@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 1 
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -87,10 +87,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
   # _pages
   - scope:
       path: "_pages"
@@ -98,5 +99,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Other settings
+atom_feed: 
+      hide: true
+
+search: false
 
 

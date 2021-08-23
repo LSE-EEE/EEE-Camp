@@ -1,8 +1,5 @@
----
-permalink: /about/
-title: "About"
----
+The Economics of Environment and Energy (EEE) Programme at LSE gathers a dynamic group of researchers working on the interaction between human activity and the natural environment. We capture work both on how economic growth can be made cleaner but also on how to mitigate the damages from this growth.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Our objective is to bring these concerns into mainstream economics and to create the policy-relevant research needed to address environmental and energy challenges at scale and speed. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Each year PhD students affiliated with the LSE EEE programme organise a week-long summer camp. The goal of the camp is provide the technical backdrop necessary for conducting research in environmental economics as well as to provide an opportunity for students to brainstorm research ideas.  
