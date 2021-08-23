@@ -1,8 +1,6 @@
 ---
 title: "EEE Camp 2021"
-date: 2021-07-27 09:00:00
-categories:
-  - 2021
+permalink: /
 toc: true
 toc_label: "Contents"
 ---

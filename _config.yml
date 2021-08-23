@@ -26,7 +26,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/
+permalink: /_pages/
 paginate: 1 
 paginate_path: /page:num/
 timezone: 
@@ -81,17 +81,17 @@ footer:
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
-      show_date: false
+  # - scope:
+  #    path: ""
+  #    type: pages
+  #  values:s
+  #   layout: single
+  #    author_profile: true
+      # read_time: false
+      # comments: false
+      # share: false
+      # related: false
+      # show_date: false
   # _pages
   - scope:
       path: "_pages"

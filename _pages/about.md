@@ -1,3 +1,9 @@
+---
+title: "About"
+# excerpt: "Page not found. Your pixels are in another canvas."
+permalink: /_pages/about.md
+---
+
 The Economics of Environment and Energy (EEE) Programme at LSE gathers a dynamic group of researchers working on the interaction between human activity and the natural environment. We capture work both on how economic growth can be made cleaner but also on how to mitigate the damages from this growth.
 
 Our objective is to bring these concerns into mainstream economics and to create the policy-relevant research needed to address environmental and energy challenges at scale and speed. 
