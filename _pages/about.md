@@ -1,7 +1,7 @@
 ---
 title: "About"
 # excerpt: "About LSE EEE"
-permalink: /EEE-Camp/about/
+permalink: /about/
 ---
 
 The Economics of Environment and Energy (EEE) Programme at LSE gathers a dynamic group of researchers working on the interaction between human activity and the natural environment. We capture work both on how economic growth can be made cleaner but also on how to mitigate the damages from this growth.
